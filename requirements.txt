@@ -2,3 +2,4 @@ pandas
 streamlit
 seaborn
 streamlit_extras
+scipy
