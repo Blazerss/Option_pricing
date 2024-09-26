@@ -1,4 +1,4 @@
 pandas
 streamlit
 seaborn
-streamlit_extras.stylable_container
+streamlit_extras
